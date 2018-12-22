@@ -1,0 +1,14 @@
+FRM-30407: Block must have at least one database item.
+Block: MOVIES_CUS
+FRM-30113: Block must have non-query-only database item.
+Block: MOVIES_CUS
+FRM-30407: Block must have at least one database item.
+Block: LOGIN_CUS_EMP
+FRM-30113: Block must have non-query-only database item.
+Block: LOGIN_CUS_EMP
+FRM-30407: Block must have at least one database item.
+Block: CUSTOMER_EMP
+FRM-30113: Block must have non-query-only database item.
+Block: CUSTOMER_EMP
+
+Created form file C:\Users\flerynn\Desktop\oracle project\Form\Login.fmx
